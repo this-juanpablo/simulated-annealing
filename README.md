@@ -4,6 +4,8 @@ Simulated annealing es un algoritmo de búsqueda meta-heurística para problemas
 ### DESARROLLO
 Código fuente de la simulación de 'Simulated Annealing' (Recocido Simulado), proyecto desarrollado en el lenguaje JavaScript, con la incorporación de HTML y CSS para la creación de una página web para la iteración de la simulación.
 
+Para ver el código del algoritmo vaya al [siguiente enlace](https://github.com/juanpablo-is/simulated-annealing/blob/master/js/javascript.js).
+
 ### ¿COMO USAR LA SIMULACIÓN?
 Para poder ejecutar una simulación del proyecto, donde le mostrará el valor de la función objetivo, con sus respectivos valores de las variables y una grafica del comportamiento de la función objetivo, puede hacer uso de la simulación online a través del siguiente enlace. [Simulación Online](https://juanpablo-is.github.io/simulated-annealing/)
 
